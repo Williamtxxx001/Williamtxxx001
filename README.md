@@ -1,38 +1,70 @@
-## Hi there 👋
+# Hi 👋 I'm William Arteaga
 
+🎓 Computer Science Student (Associate Degree)  
+🔐 Aspiring Cybersecurity & Software Professional  
+📍 23 Years Old | Technology-Driven Since Childhood  
 
-[Brief Introduction - Remove this afterwards]
+---
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+## 🧠 About Me
 
-Objective
-[Provide Objective - Remove this afterwards]]
+My name is William Arteaga, and I am currently pursuing my two-year Associate’s degree in Computer Science.
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+From a young age, I felt a strong connection to technology and the digital world. While security wasn’t my original focus, I always knew that technology was the field I was meant to pursue.
 
-Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+I graduated from Hastings High School, where I completed two IT courses that introduced me to:
 
-Skill	Associated Project
-SIEM Implementation and Log Analysis	Detection Lab
-Network Traffic Monitoring and Attack Detection	Detection Lab
-Security Automation with Shuffle SOAR	SOC Automation Lab
-Incident Response Planning and Execution	SOC Automation Lab
-Case Management with TheHive	SOC Automation Lab
-Scripting and Automation for Threat Mitigation	SOC Automation Lab
-Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+- Basic networking  
+- Software fundamentals  
+- Technical problem-solving  
 
-Network
-  
-Endpoint
- 
-SIEM
-  
-Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+Those early experiences built my confidence and solid foundation in tech.
 
-    
-Projects
-Detection Lab
-SOC Automation Project
+Now in college, I am strengthening my skills in:
+
+- Programming  
+- Systems  
+- Cybersecurity fundamentals  
+- Problem-solving  
+
+Each class builds on what I started in high school, and I am committed to finishing strong and continuing my growth in the tech industry.
+
+---
+
+## 💎 Core Values
+
+- **Consistency** – I believe steady effort builds real skill.
+- **Growth Mindset** – I am always learning and improving.
+
+---
+
+## 🎓 Education
+
+Associate’s Degree in Computer Science (In Progress)  
+Expected Completion: [2027]
+
+---
+
+## 🏆 Certifications
+
+### Google Cybersecurity Professional Certificate (Coursera)
+
+✅ **Foundations of Cybersecurity**  
+Issued: February 3, 2026  
+🔗 Verify: https://coursera.org/verify/8PWJ7BAYQF8I  
+
+✅ **Play It Safe: Manage Security Risks**  
+Issued: February 7, 2026  
+🔗 Verify: https://coursera.org/verify/ENYPV4GQF8PU  
+
+Currently continuing the Google Cybersecurity Professional Certificate program.
+
+---
+
+## 🎯 Career Goal
+
+To build a strong foundation in software development and cybersecurity, gain internship experience, and grow into a skilled security-focused technologist.
+
+---
+
+⭐ Thank you for visiting my profile.
