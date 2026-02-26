@@ -1,5 +1,9 @@
 # Hi 👋 I'm William Arteaga
 
+## Professional Profiles
+
+- Indeed: https://profile.indeed.com/p/williama-6nhyml4
+
 🎓 Computer Science Student (Associate Degree)  
 🔐 Aspiring Cybersecurity & Software Professional  
 📍 23 Years Old | Technology-Driven Since Childhood  
