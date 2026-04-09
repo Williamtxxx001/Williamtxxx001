@@ -61,6 +61,10 @@ Issued: February 3, 2026
 Issued: February 7, 2026  
 🔗 Verify: https://coursera.org/verify/ENYPV4GQF8PU  
 
+✅ **Linux Fundamentals 
+Issued: March 23, 2026
+🔗 Verify: https://coursera.org/share/12fbdc559a1e19e3cd1eed6f3c35bcc0
+
 Currently continuing the Google Cybersecurity Professional Certificate program.
 
 ---
